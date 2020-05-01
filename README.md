@@ -1,5 +1,6 @@
 
-
+# My Portfolio Website 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87aee425-565b-4dde-977e-dd273bde7e67/deploy-status)](https://app.netlify.com/sites/sumon-rayy/deploys)
 
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
