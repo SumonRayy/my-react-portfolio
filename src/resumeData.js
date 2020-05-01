@@ -23,8 +23,8 @@ let resumeData = {
         }
       ],
     "aboutme":"I am currently a final year student at Kanyapur Polytechnic College and pursuing my Diploma from here. I am a self taught Full Stack Web Developer, currently diving deeper into Ethical Hacking. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://sumonrayy.netlify.com",
+    "address":"West Bengal, India",
+    "website":"https://sumon-rayy.netlify.com",
     "education":[
       {
         "UniversityName":"Kanyapur Polytechnic College, Asansol, WB",
